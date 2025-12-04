@@ -1,13 +1,13 @@
 /* Change the background of the entire visible page */
 body {
-    background-color: #144187; /* navy blue */
+    background-color: #9fc5e8; /* light blue */
 }
 
 /* Style for all paragraphs */
 p {
-    color: white;
+    color: black;
     font-size: 16px;
-    font-family: 'Lobster', serif;
+    font-family: 'Times New Roman', serif;
 }
 
 /* Style for the main heading */
