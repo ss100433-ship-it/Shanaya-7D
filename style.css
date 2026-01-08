@@ -13,5 +13,5 @@ p {
 /* Style for the main heading */
 h1 {
     text-align: center; /* Puts the heading in the middle */
-    border: 2px white; /* Adds an white border around the heading */
+    border: 4px white; /* Adds an white border around the heading */
     padding: 10px; /* Adds space inside the border */
