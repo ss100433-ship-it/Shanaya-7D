@@ -15,7 +15,8 @@ h1 {
     text-align: center; /* Puts the heading in the middle */
     border: 4px solid black; /* Adds an black border around the heading */
     padding: 4px; /* Adds space inside the border */
-
-h1 {
-    color: Navy Blue;
+}
+h2 {
+    color: rgb(0, 0, 80);
+}
  
